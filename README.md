@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭I’m currently working in Amazon(AWS), HYD
 -   I’m interested in developing software products.
 
 ## 🚀 Languages and Tools:
